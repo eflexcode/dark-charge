@@ -1,2 +1,2 @@
 # dark-charge
-android chaging application
+android charging application
